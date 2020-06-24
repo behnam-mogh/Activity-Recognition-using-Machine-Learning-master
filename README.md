@@ -1,2 +1,3 @@
-# Activity-Recognition-using-Machine-Learning-master
-The project involves training a Machine Learning model to classify the kind of activity a person is performing including sitting, standing, laying, walking, walking upstairs and walking downstairs using data collected from smartphones.
+# Activity-Recognition by Behnam Moghadassian
+check out https://towardsdatascience.com/activity-recognition-using-smartphones-machine-learning-application-a10e7b5578f9 by Karan Bhanot
+Use machine learning to recognise various activities.
